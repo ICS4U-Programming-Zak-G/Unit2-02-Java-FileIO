@@ -1,5 +1,5 @@
-55
--1
-30
+40
+Please enter a valid input. For input string: "Hello"
+4
+Please enter a valid input. For input string: ""
 0
-64

@@ -70,8 +70,8 @@ public final class FileIO {
 
                 // Catch invalid non-numeric inputs
             } catch (NumberFormatException error) {
-                System.out.println("Please enter a valid input. "
-                        + error.getMessage());
+                outputStr += "Please enter a valid input. "
+                        + error.getMessage() + "\n";
 
             }
         }
